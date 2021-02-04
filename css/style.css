@@ -21,7 +21,7 @@ body {
     margin-bottom: 0.1em;
     font-size: 2em;
     color: #ffffff;
-    font-style: italic;
+  
 }
 
 .masthead-heading {
@@ -31,6 +31,7 @@ body {
     letter-spacing: -0.02em;
     text-transform: uppercase;
     color: #ffffff;
+    font-style: italic;
 }
 
 .details {
